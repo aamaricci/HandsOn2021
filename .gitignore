@@ -1,3 +1,5 @@
 *.o
 *.mod
 test
+.DS_Store
+01_IPT/01_SRC/Python
